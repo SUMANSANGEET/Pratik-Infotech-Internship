@@ -1,0 +1,10 @@
+post_id
+platform
+post_type
+caption
+likes
+comments
+shares
+impressions
+reach
+posted_at

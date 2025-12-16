@@ -1,0 +1,12 @@
+Engagement Rate (%) =
+DIVIDE(
+    SUM(social_media_engagement[likes]) +
+    SUM(social_media_engagement[comments]) +
+    SUM(social_media_engagement[shares]),
+    SUM(social_media_engagement[reach])
+) * 100
+
+Total Engagement =
+SUM(social_media_engagement[likes]) +
+SUM(social_media_engagement[comments]) +
+SUM(social_media_engagement[shares])

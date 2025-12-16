@@ -1,0 +1,17 @@
+📊 Capstone Project: Social Media Engagement Analysis
+
+I recently completed an end-to-end data analytics project focused on understanding and improving social media engagement.
+
+🔍 What I did:
+✔ Cleaned & analyzed engagement data
+✔ Defined engagement KPIs
+✔ Identified top-performing platforms & content
+✔ Built an interactive Streamlit dashboard
+✔ Used SQL + Python for insights
+
+📈 Key takeaway:
+Data-driven content strategy can significantly boost engagement and reach.
+
+Excited to apply these skills in real-world data analyst roles!
+
+#DataAnalytics #Python #SQL #Streamlit #PortfolioProject
